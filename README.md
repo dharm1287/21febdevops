@@ -1,4 +1,1 @@
-# 21febdevops
-Test for jenkins
-
-asdkjalkd
+This repository is the implementation of the paper "Logistic regression model for prediction of roof fall risks in bord and pillar workings in coal mines: An approach" by Sanjay Kumar Palei and Samir Kumar Das.
